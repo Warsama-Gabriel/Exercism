@@ -1,0 +1,10 @@
+notes.txt
+
+ proverb = Proverb.new('nail', 'shoe', 'horse')
+    expected = "For want of a nail the shoe was lost.\n" \
+      "For want of a shoe the horse was lost.\n" \
+      'And all for the want of a nail.'
+
+"For want of a 1 the 2 was lost.\n"
+"For want of a 2 the 3 was lost.\n"
+"And all for the want of a 1."

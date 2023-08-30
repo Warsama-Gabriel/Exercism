@@ -1,0 +1,6 @@
+given range [1, 9]
+* get all the unique products of all the numbers within that range
+* get the smallest palindrome (number that remains the same when its digits are
+reversed) and its factors in the range.
+* get the largest palindrome (number that remains the same when its digits are
+reversed) and its factors in the range.
